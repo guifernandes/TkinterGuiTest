@@ -1,0 +1,9 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.ruffEnabled": true,
+    "editor.formatOnSave": true,
+    "python.linting.mypyEnabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.defaultInterpreterPath": ".venv/Scripts/python.exe"
+}
